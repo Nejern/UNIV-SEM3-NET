@@ -7,7 +7,7 @@
 - [x] 3
 - [x] 4
 - [ ] 5
-- [ ] 6
+- [x] 6
 - [x] 7
 - [x] 8
 - [ ] 9
@@ -23,4 +23,3 @@
 - [Задания](https://drive.google.com/drive/folders/1mW2CkFe2FoG6Vb-I5vilM10NMyMB2Gyo)
 - [Теория](http://netacad.info/data/2)
 - [Остальное](https://drive.google.com/drive/folders/1phzom_tjsATUtxEn_J9OXcEEHiPfywmj)
-
